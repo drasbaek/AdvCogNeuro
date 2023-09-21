@@ -1,0 +1,15 @@
+imageio
+scipy
+numpy
+matplotlib
+dicom2nifti
+nibabel
+nilearn
+scikit-learn
+mne
+seaborn
+crtoolbox
+ipywidgets
+pandas
+pyvistaqt
+ndslib
