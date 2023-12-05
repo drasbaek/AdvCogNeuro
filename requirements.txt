@@ -13,3 +13,4 @@ ipywidgets
 pandas
 pyvistaqt
 ndslib
+searchlight
